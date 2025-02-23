@@ -1366,6 +1366,19 @@ RequestImap(-1905652203) -- bench infront of gunshop
 RequestImap(2470511)     -- box and stool next to gun shop
 ------------------------------------- #### END Valentine extras --####
 
+------------------------------------- ### Named Graves ###
+--Eagle Flies' Grave
+RequestImap(-1010679388)
+--Hosea Matthews' Grave
+RequestImap(-449454773)
+--Lenny Summers' Grave
+RequestImap(1308321372)
+--Sean McGuire's Grave
+RequestImap(1989203268)
+--Jenny Kirk's Grave
+RequestImap(579127040)
+------------------------------------- ### END Named Graves ###
+
 --RequestImap(-643541706)
 RemoveImap(247969883)
 -- RequestImap(666617953)
